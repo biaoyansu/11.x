@@ -14,12 +14,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="115" column="38" lean-forward="false" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="364">
+              <caret line="184" column="58" lean-forward="true" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +61,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -73,152 +105,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-theme.less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick.less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.x code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -710,12 +596,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487421780731</updated>
-      <workItem from="1487421782429" duration="11481000" />
+      <workItem from="1487421782429" duration="12226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11481000" />
+    <option name="totallyTimeSpent" value="12226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -1288,96 +1174,90 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state relative-caret-position="458">
+          <caret line="228" column="11" lean-forward="true" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
           <folding>
-            <marker date="1487486452000" expanded="true" signature="21:6864" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="28:598" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="82:196" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="605:6856" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="627:981" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="655:974" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="680:739" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="764:963" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1009:1419" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1037:1412" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1070:1132" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1171:1278" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1311:1401" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1345:1386" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1453:3826" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1481:3819" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="1513:2071" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2099:2739" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2132:2463" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2154:2236" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2258:2340" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2362:2444" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2481:2724" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2517:2593" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2629:2705" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2779:3808" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2797:3096" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2834:2939" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="2974:3077" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3127:3793" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3209:3774" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3850:6116" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3920:4258" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3948:4029" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="3974:3994" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4057:4138" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4083:4103" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4166:4247" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4192:4212" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4328:4775" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4356:4437" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4382:4402" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4465:4546" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4491:4511" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4574:4655" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4600:4620" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4683:4764" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4709:4729" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4845:5183" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4873:4954" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4899:4919" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="4982:5063" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5008:5028" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5091:5172" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5117:5137" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5253:5700" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5281:5362" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5307:5327" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5390:5471" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5416:5436" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5499:5580" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5525:5545" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5608:5689" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5634:5654" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5770:6108" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5798:5879" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5824:5844" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5907:5988" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="5933:5953" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6016:6097" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6042:6062" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6137:6299" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6165:6292" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6438:6848" ph="..." />
-            <marker date="1487486452000" expanded="true" signature="6461:6529" ph="{...}" />
-            <marker date="1487486452000" expanded="true" signature="6534:6839" ph="//..." />
+            <marker date="1487486884000" expanded="true" signature="2:331" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="338:426" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="430:460" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="466:510" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="523:569" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="575:595" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="601:622" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="691:748" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="830:895" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="904:923" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="932:951" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="960:979" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="988:1007" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1016:1035" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1044:1063" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1072:1091" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1100:1119" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1130:1155" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1172:1242" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1252:1276" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1292:1462" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1484:1518" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1562:1619" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1648:1693" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1718:1882" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1903:1948" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="1974:2001" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2033:2061" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2090:2282" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2315:2344" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2381:2587" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2609:2634" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2663:2762" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2779:2803" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2827:2986" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="2994:3323" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="3333:3442" ph="{...}" />
+            <marker date="1487486884000" expanded="true" signature="3454:3497" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="115" column="38" lean-forward="false" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="364">
+          <caret line="184" column="58" lean-forward="true" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#7;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#9;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#11;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#13;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#15;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#17;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
