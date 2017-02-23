@@ -1,51 +1,46 @@
 * {
-    /*background: rgba(0, 0, 0, .1);*/
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-transition: background 200ms;
-    -moz-transition: background 200ms;
-    -ms-transition: background 200ms;
-    -o-transition: background 200ms;
-    transition: background 200ms;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: background 200ms;
+  -o-transition: background 200ms;
+  transition: background 200ms;
 }
 
 body {
-    background: #f5f5f5;
-    font-size: 14px;
-    color: #555;
-    line-height: 1.7;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #444;
+  background: #f9f9f9;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 img {
-    max-width: 100%;
-    display: block;
+  display: block;
+  max-width: 100%;
 }
 
 .container {
-    max-width: 1080px;
-    margin: 0 auto;
+  display: block;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 .fl {
-    float: left;
+  float: left;
 }
 
 .fr {
-    float: right;
+  float: right;
 }
 
-.container:before,
-.container:after,
-.clearf:before,
-.clearf:after {
-    content: "";
-    display: block;
-    clear: both;
+.clearf:after,
+.clearf:before {
+  content: " ";
+  display: block;
+  clear: both;
 }
 
 .col-1,
@@ -56,177 +51,188 @@ img {
 .col-6,
 .col-7,
 .col-8,
-.col-9,
-.col-10 {
-    position: relative;
-    min-height: 1px;
-    float: left;
+.col-9 {
+  display: block;
+  position: relative;
+  min-height: 1px;
+  float: left;
 }
 
 .col-1 {
-    width: 10%;
+  width: 10%;
 }
 
 .col-2 {
-    width: 20%;
+  width: 20%;
 }
 
 .col-3 {
-    width: 30%;
+  width: 30%;
 }
 
 .col-4 {
-    width: 40%;
+  width: 40%;
 }
 
 .col-5 {
-    width: 50%;
+  width: 50%;
 }
 
 .col-6 {
-    width: 60%;
+  width: 60%;
 }
 
 .col-7 {
-    width: 70%;
+  width: 70%;
 }
 
 .col-8 {
-    width: 80%;
+  width: 80%;
+}
+
+.col-9 {
+  width: 90%;
 }
 
 .top-nav {
-    background: #eee;
+  background: #eee;
 }
 
 .top-nav .item {
-    display: inline-block;
-    color: #666;
-    padding: 6px 20px;
+  display: inline-block;
+  padding: 6px 10px;
+  color: #666;
+}
+
+.top-nav .item:hover {
+  color: #333;
 }
 
 .header {
-    padding: 20px 0;
+  padding: 20px 0;
 }
 
 .header .logo {
-    background-image: url(../image/logo.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: center center;
-    height: 60px;
+  font-size: 30px;
 }
 
 .header .search-bar {
-    border: 2px solid #dd182b;
+  border: 2px solid #dd182b;
+  background: #dd182b;
 }
 
-.header input,
+.header .search-bar input,
 .header .search-bar button {
-    padding: 8px 20px;
-    border: 0;
-    outline: 0;
+  display: block;
+  float: left;
+  border: 0;
+  padding: 10px;
+  outline: 0;
+}
+
+.header .search-bar input {
+  width: 80%;
+}
+
+.header .search-bar input:focus {
+  -webkit-box-shadow: inset 0 0 2px 2px rgba(0,0,0,.3);
+  box-shadow: inset 0 0 2px 2px rgba(0,0,0,.3);
 }
 
 .header .search-bar button {
-    background: #dd182b;
-    color: #fff;
+  width: 20%;
+  background: #dd182b;
+  color: #fff;
 }
 
-.header .cart .trigger {
-    padding: 6px 20px;
-    background: #fff;
-    color: #dd182b;
-    text-align: center;
-    margin-left: 10px;
-    border: 1px solid #ddd;
-    cursor: pointer;
+.header .search-bar button:hover {
+  background: #ce1829;
+}
+
+.header .cart {
+  text-align: center;
+}
+
+.header .cart a {
+  float: right;
+  padding: 10px;
+  background: #fff;
+  border: 2px solid #eee;
+  width: 80%;
+  color: #dd182b;
+}
+
+.main-promote {
+  background: #dedede;
 }
 
 .main-promote .cat {
-    background: #6e6568;
-    color: #fff;
+  background: #6e6568;
+  color: #fff;
 }
 
-.main-promote .cat .row {
-    padding: 12px 20px;
+.main-promote .cat .item {
+  padding: 14px 20px;
 }
 
-.main-promote .cat .row:hover {
-    background: #5d5558;
+.main-promote .cat .item:hover {
+  background: rgba(0,0,0,.2);
 }
 
-.main-promote .sub-promote {
-    background: #fff;
-    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
-    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
-    padding: 10px;
+.main-promote .info {
+  padding: 10px;
+  background: #fff;
+  color: #888;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
 }
 
-.main-promote .sub-promote > * {
-    padding-bottom: 10px;
+.main-promote .info > * {
+  margin-bottom: 10px;
 }
 
-.main-promote .sub-promote .avatar {
-    display: block;
-    width: 50px;
-    height: 50px;
-    float: left;
-    background: #ccc;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
-    margin-right: 10px;
+.main-promote .info .avatar {
+  width: 50px;
+  height: 50px;
+  background: #aaa;
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
 }
 
-.main-promote .auth {
-    margin-top: 10px;
+.cat-promote .title:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 5px;
+  height: 22px;
+  background: #dd182b;
+  margin-right: 10px;
+}
+.cat-promote .title {
+  font-size: 22px;
 }
 
-.main-promote .auth button {
-    border: 2px solid #dd182b;
-    background: transparent;
-    color: #dd182b;
-    width: 40%;
+.cat-promote .item {
+  padding: 5px;
 }
 
-.promote-title {
-    font-size: 22px;
-}
-
-.promote-title:before {
-    content: "";
-    display: inline-block;
-    width: 10px;
-    height: 22px;
-    margin-right: 10px;
-    vertical-align: middle;
-    background: #dd182b;
-}
-
-.card {
-    height: 300px;
-    margin: 5px;
-    background: #e5e7dd;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    /*border: 1px solid #ccc;*/
-    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
-    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+.cat-promote .card {
+  height: 300px;
+  background: #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.1);
+  box-shadow: 0 2px 2px rgba(0,0,0,.1);
 }
 
 .footer {
-    text-align: center;
-    margin-top: 30px;
-    background: #eee;
-    padding: 50px 0;
-    color: #999;
+  margin-top: 30px;
+  padding: 30px 0;
+  background: #eee;
+  text-align: center;
+  color: #999;
 }
 
 .footer a {
-    color: #999;
-    margin-left: 10px;
+  color: #999;
 }
